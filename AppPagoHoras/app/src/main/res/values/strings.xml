@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppPagoHoras</string>
+    <string name="tvHoras">Ingrese Horas</string>
+    <string name="Horas">Horas</string>
+    <string name="tipoHora">Tipo Hora</string>
+    <string name="bt_Calcular">Calcular</string>
+    <string name="btn_Limpiar">Limpiar</string>
+    <string name="btn_Salir">Salir</string>
+    <string name="ingrese_horas">Ingrese Horas</string>
+</resources>
