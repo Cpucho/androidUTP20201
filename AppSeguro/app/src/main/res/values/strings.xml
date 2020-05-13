@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppSeguro</string>
+    <string name="empleado">Empleado</string>
+    <string name="descuentos">Descuentos</string>
+    <string name="cb_movilidad">Movilidad</string>
+    <string name="cb_afp">AFP</string>
+    <string name="cb_rpc">RPC</string>
+    <string name="bt_calcular">Calcular</string>
+    <string name="bt_limpiar">Limpiar</string>
+    <string name="bt_salir">Salir</string>
+</resources>
