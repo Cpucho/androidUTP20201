@@ -60,6 +60,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 procLimpiar();
+                tvRpta.setText("");
+                Usuarios.clear();
+                Passwords.clear();
             }
         });
 
@@ -74,6 +77,6 @@ public class MainActivity extends AppCompatActivity {
     public void procLimpiar(){
         etUser.setText("");
         etPass.setText("");
-        tvRpta.setText("");
+
     }
 }
