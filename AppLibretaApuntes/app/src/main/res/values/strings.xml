@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppLibretaApuntes</string>
+    <string name="et_User">Usuario</string>
+    <string name="tp_Password">Pasword</string>
+    <string name="tv_Titulo">REGISTRO USUARIO</string>
+    <string name="bt_ingresar">Registrar</string>
+    <string name="bt_Limpiar">Limpiar</string>
+    <string name="bt_salir">Salir</string>
+</resources>
