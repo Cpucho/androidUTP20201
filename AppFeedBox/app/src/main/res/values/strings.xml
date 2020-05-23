@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppFeedBox</string>
+    <string name="et_Usuario"> Usuario</string>
+    <string name="et_password"> Password</string>
+    <string name="btn_log_in">Log In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="et_nombres">Nombres</string>
+    <string name="et_re_password">Re-Password</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_cancelar">cancelar</string>
+    <string name="et_username">Username</string>
+    <string name="et_id_usuario">ID Usuario</string>
+    <string name="txt_informaci_n_sobre_la_encuesta">Información sobre la Encuesta</string>
+</resources>
